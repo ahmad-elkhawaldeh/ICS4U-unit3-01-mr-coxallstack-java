@@ -35,7 +35,7 @@ final class Main {
 
         stack.showStack();
 
-        System.out.println("Add 20:");
+        System.out.println("Add 20");
         stack.push(TWENTY);
 
         stack.showStack();
